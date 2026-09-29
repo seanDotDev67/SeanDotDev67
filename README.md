@@ -244,7 +244,9 @@ If you're into **software development, cybersecurity, open source, student proje
 
 ### 🚀 Still Learning. Still Building. Still Breaking Things.
 
-**From random ideas → real systems.**
+**I started coding because I wanted to build things.
+
+Now I'm here trying to understand how everything actually works underneath.**
 
 <br>
 
@@ -256,7 +258,7 @@ If you're into **software development, cybersecurity, open source, student proje
 
 <br>
 
-🧭 **Direction before speed.**
+🧭 **Not the fastest developer. Just becoming a better one.**
 
 <br><br>
 
