@@ -2,7 +2,7 @@
 
 ### `IT Student` • `Full-Stack Developer in Progress` • `Builder`
 
-> **“Direction before speed.”** 🧭
+> **“I don’t need to know everything. I just need to understand what I’m building.”** 🧭
 
 I'm a 3rd-year IT student who enjoys turning random ideas into working systems.
 
@@ -238,10 +238,34 @@ If you're into **software development, cybersecurity, open source, student proje
 
 ---
 
+---
+
 <p align="center">
 
-### ⭐ If you find something useful here, feel free to star a repository!
+### 🚀 Still Learning. Still Building. Still Breaking Things.
 
-**Keep building. Keep breaking. Keep learning.** 🚀
+**From random ideas → real systems.**
 
+<br>
+
+`Java` • `Spring Boot` • `PHP` • `React` • `SQL` • `Cybersecurity`
+
+<br><br>
+
+**Made with ☕, curiosity, and way too many “bro, what if...” moments.**
+
+<br>
+
+🧭 **Direction before speed.**
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SeanDotDev67&style=flat-square&color=blueviolet" />
+
+</p>
+
+---
+
+<p align="center">
+  <sub>© 2026 Sean Lapaz • Built while learning, debugging, and occasionally questioning my life choices. 😂</sub>
 </p>
