@@ -1,27 +1,247 @@
-# 💫 About Me:
-🛠️ Currently working on<br>Full-stack projects, SaaS ideas, and my journey toward becoming a full-stack developer.<br><br>🤝 Looking to collaborate on<br>Open-source projects, innovative student projects, and SaaS ideas.<br><br>🆘 Looking for help with<br>Backend architecture, system design, cybersecurity, and writing production-quality code.<br><br>🌱 Currently learning<br>Java • Spring Boot • PHP • SQL • React • Cybersecurity<br><br>💬 Ask me about<br>Java, web development, GitHub, UI/UX, or turning random ideas into actual projects.<br><br>⚡ Fun fact<br>I learn best by building things—and apparently every project starts with "bro, what if we made...
+# 👋 Hey, I'm Sean
 
+### `IT Student` • `Full-Stack Developer in Progress` • `Builder`
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sean.lapaz.777) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.linkedin.com/in/sean-lapaz-834253358/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sean-lapaz-834253358/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@sean_diay) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sean Lapaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seanlapaz227@gmail.com) 
+> **“Direction before speed.”** 🧭
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SeanDotDev67&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SeanDotDev67&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SeanDotDev67&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a 3rd-year IT student who enjoys turning random ideas into working systems.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SeanDotDev67&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Currently diving deeper into **Java, Spring Boot, PHP, SQL, React, networking, and cybersecurity** — while slowly figuring out how all the pieces connect.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SeanDotDev67&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```text
+💡 Idea
+   ↓
+🎨 Design
+   ↓
+🧠 Architecture
+   ↓
+💻 Code
+   ↓
+🧪 Test
+   ↓
+🚀 Deploy
+   ↓
+🔁 Learn → Improve → Repeat
+```
 
 ---
-[![](https://komarev.com/ghpvc/?username=SeanDotDev67&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Building
+
+I'm currently focused on building projects that teach me **how real software works**, not just how to make something look good.
+
+| Project | What I'm learning |
+|---|---|
+| 📚 **LIBRIS** | MVC • PHP • PDO • MySQL • Authentication |
+| 🤝 **PeerSync** | System Design • APIs • Database Architecture |
+| 💰 **Expense Tracker** | MVC • CRUD • SQL • Financial Logic |
+| 🧠 **Future SaaS Ideas** | Backend Architecture • APIs • Deployment |
+
+> Most of my projects start with:
+>
+> **“Bro... what if we made this?”** 😂
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Java
+ └── Spring Boot
+      ├── REST APIs
+      ├── Spring Security
+      ├── JPA / Hibernate
+      └── Database Architecture
+
+Web Development
+ ├── PHP / MVC
+ ├── React
+ ├── JavaScript / TypeScript
+ └── HTML / CSS
+
+Database
+ ├── MySQL
+ └── SQL Server
+
+Beyond Development
+ ├── Networking
+ ├── Cybersecurity
+ ├── Git / GitHub
+ └── System Design
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### ⚙️ Backend & Database
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ☁️ Tools & Infrastructure
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🔥 Featured Project
+
+### 📚 LIBRIS — Library Information System
+
+A custom-built library management system focused on making the borrowing experience easier for both patrons and librarians.
+
+**Built with:**
+
+`PHP` `MVC` `PDO` `MySQL` `JavaScript` `Tailwind CSS`
+
+**Features**
+
+- 🔐 Role-based authentication
+- 📚 Book catalog & inventory
+- 🔖 Holds and reservations
+- 📦 Loan tracking
+- 💰 Automated fine estimation
+- 🔔 Notifications
+- 👨‍💼 Librarian operations
+- 📊 Borrowing analytics
+- 🖼️ Book metadata & image uploads
+
+**Live:** [`uclmlibris.infinityfree.io`](https://uclmlibris.infinityfree.io)
+
+---
+
+## 🧩 How I Like to Learn
+
+I don't learn very well by simply watching tutorials.
+
+I prefer:
+
+```text
+        ┌───────────────┐
+        │   Learn WHY   │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │  Understand   │
+        │  HOW it works │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │   Build it    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │ Break it 😂   │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │ Fix + Improve │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │   Build it    │
+        │     again     │
+        └───────────────┘
+```
+
+> **I don't want to memorize frameworks.**
+>
+> I want to understand what happens underneath them.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=SeanDotDev67&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=SeanDotDev67&theme=dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SeanDotDev67&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SeanDotDev67&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+If you're into **software development, cybersecurity, open source, student projects, or building weird ideas at 2 AM**, feel free to reach out.
+
+<p align="center">
+
+<a href="https://www.facebook.com/sean.lapaz.777">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sean_diay/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sean-lapaz-834253358/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:seanlapaz227@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SeanDotDev67&style=for-the-badge&color=blueviolet"/>
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ If you find something useful here, feel free to star a repository!
+
+**Keep building. Keep breaking. Keep learning.** 🚀
+
+</p>
