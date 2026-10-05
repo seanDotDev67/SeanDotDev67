@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sean
+# 👋 Hey, I'm Sean Andrei 
 
 ### `IT Student` • `Full-Stack Developer in Progress` • `Builder`
 
