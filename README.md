@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sean Andrei Lapaz
+# 👋 Hey, I'm Sean Andrei 
 
 ### `IT Student` • `Full-Stack Developer in Progress` • `Builder`
 
